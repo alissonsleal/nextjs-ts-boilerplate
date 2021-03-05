@@ -28,4 +28,4 @@ Install dependencies with `yarn` or `npm install`
 
 Change the name of your project inside `package.json`
 
-Run your Next.JS App with `yarn start` or `npm run start`
+Run your Next.JS App with `yarn dev` or `npm run dev`
